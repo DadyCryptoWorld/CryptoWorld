@@ -81,20 +81,22 @@ Once on the map, you should naviagte between the differents worlds throught the 
 - Gwendal, Tech
 - Julien, Game design
 - Jordan, Business
-- Yannis, Business & marekting
+- Yannis, Business & marketing
 - Damien, Business & token
 
 
 ### Project Submission
 
-- Use the services of your favorite web3 professionals: CEX, DEX, DAO, NFT project owners, DeFi protocols, launch pads, content creators can operate on CryptoWorld.
+- Use the services of your favorite web3 professionals: CEX, DEX, DAO, NFT project owners, DeFi protocols, launchpads, content creators can operate on CryptoWorld.
 
 - Interact with any blockchain protocol: swap, send, track, trade, DeFi, launch, NFT, stack, track assets, etc.
 
 - Get together to create new opportunities: play to earn, discuss, share, meet, attend events, network, find work, etc.
  
  Pitch & Litpaper: https://bit.ly/Pitch-Litepaper-CW
+ 
  Loom: https://bit.ly/Video-CW-demo
+ 
  Tokenomics: https://bit.ly/Token-CW
 
 
