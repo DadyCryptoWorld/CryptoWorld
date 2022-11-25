@@ -70,7 +70,7 @@ To enter, please visit this link : https://game.crypto-world.place/
 
 Once on the map, you should naviagte between the differents worlds throught the portals. We have 4 main maps :
 - Community map (spon spot, $ECHO swap, ressources trading, bag inspection, etc)
-- Space for professionals, with the possibility to interact with the Pancakeswap building (only swap available for now)
+- Space for professionals, with the possibility to interact with the Pancakeswap building (only swap running for now)
 - Space dedicated to governance and events in ancient Rome
 - DAOmaker space (as a showcase)
 
