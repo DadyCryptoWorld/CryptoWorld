@@ -7,7 +7,7 @@ We simplify the handling of blockchain services to extend Web3 adoption to a wid
 ### **Topic worked**
 Track: Education 🎓
 
-Make web3 easy-to-use
+=> Make web3 easy to use, rather than focusing on educating people on how to use web3.
 
 
 ### **How to setup your project**
@@ -69,7 +69,7 @@ We simplify the handling of blockchain services to extend Web3 adoption to a wid
 To enter, please visit this link : https://game.crypto-world.place/
 
 Once on the map, you should naviagte between the differents worlds throught the portals. We have 4 main maps :
-- Community map (spon spot)
+- Community map (spon spot, $ECHO swap, ressources trading, bag inspection, etc)
 - Space for professionals, with the possibility to interact with the Pancakeswap building (only swap available for now)
 - Space dedicated to governance and events in ancient Rome
 - DAOmaker space (as a showcase)
@@ -92,6 +92,8 @@ Once on the map, you should naviagte between the differents worlds throught the 
 - Interact with any blockchain protocol: swap, send, track, trade, DeFi, launch, NFT, stack, track assets, etc.
 
 - Get together to create new opportunities: play to earn, discuss, share, meet, attend events, network, find work, etc.
+
+ 
  
  Pitch & Litpaper: https://bit.ly/Pitch-Litepaper-CW
  
@@ -99,7 +101,7 @@ Once on the map, you should naviagte between the differents worlds throught the 
  
  Tokenomics: https://bit.ly/Token-CW
 
-
+ 
 
 BNB chain: Network used, business space built 
 
