@@ -100,7 +100,8 @@ Once on the map, you should naviagte between the differents worlds throught the 
  Loom: https://bit.ly/Video-CW-demo
  
  Tokenomics: https://bit.ly/Token-CW
-
+ 
+ MVP V0.1: https://game.crypto-world.place/
  
 
 BNB chain: Network used, business space built 
